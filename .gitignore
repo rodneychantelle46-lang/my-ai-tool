@@ -7,3 +7,5 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
+# 环境变量（以后会用到）
+.env
